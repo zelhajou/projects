@@ -22,11 +22,11 @@
 
 ## Public Repositories (Newest First)
 
-Last updated: May 25, 2026
+Last updated: May 26, 2026
 
 | Repository | Description | Created | Last Updated | Stars |
 |------------|-------------|---------|-------------|-------|
-| [domain-tab-grouper](https://github.com/zelhajou/domain-tab-grouper) | Automatic tab grouping by domain for Brave/Chrome/Edge — MV3 extension with smart normalization, ... ![](https://img.shields.io/badge/-JavaScript-yellow) | 2026-05-15 | 2026-05-19 | 0 |
+| [ext_domain-tab-grouper](https://github.com/zelhajou/ext_domain-tab-grouper) | Automatic tab grouping by domain for Brave/Chrome/Edge — MV3 extension with smart normalization, ... ![](https://img.shields.io/badge/-JavaScript-yellow) | 2026-05-15 | 2026-05-25 | 0 |
 | [ft_web-42term](https://github.com/zelhajou/ft_web-42term) | Terminal-style widgets that showcase 42 students' profiles, projects, and skills. Generate beauti... ![](https://img.shields.io/badge/-JavaScript-yellow) | 2025-03-27 | 2026-05-04 | 3 |
 | [ft_web-pmerge-me-visualizer](https://github.com/zelhajou/ft_web-pmerge-me-visualizer) | A web application that visualizes the Ford-Johnson (merge-insert) sorting algorithm  ![](https://img.shields.io/badge/-JavaScript-yellow) | 2025-03-05 | 2026-05-04 | 3 |
 | [ft_net_webserv](https://github.com/zelhajou/ft_net_webserv) | HTTP/1.1 web server supporting GET, POST, and DELETE requests ![](https://img.shields.io/badge/-C++-green) | 2024-07-03 | 2026-02-19 | 1 |
@@ -58,16 +58,16 @@ Last updated: May 25, 2026
       </td>
       <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
-          <img alt="Public Repositories" src="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
+          <img alt="Public Repositories" src="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
         </picture>
       </td>
       <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
-          <img alt="Private Repositories" src="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
+          <img alt="Private Repositories" src="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
         </picture>
       </td>
     </tr>
@@ -88,9 +88,9 @@ Last updated: May 25, 2026
 
 ### Repository Timeline
 - 📅 **First repository:** [ft_core_libft](https://github.com/zelhajou/ft_core_libft) created on 2022-10-17
-- 🆕 **Most recent repository:** [domain-tab-grouper](https://github.com/zelhajou/domain-tab-grouper) created on 2026-05-15
+- 🆕 **Most recent repository:** [ext_domain-tab-grouper](https://github.com/zelhajou/ext_domain-tab-grouper) created on 2026-05-15
 - 🎂 **GitHub account age:** Approximately 8 years (created on 2018-06-05)
-- 📊 **Average creation rate:** 2.3
+- 📊 **Average creation rate:** 2.5
 
 ### Contribution Activity
 
@@ -182,4 +182,4 @@ Language composition across all repositories:
 </div>
 
 
-<div align="center"><small>Last updated: May 25, 2026</small></div>
+<div align="center"><small>Last updated: May 26, 2026</small></div>
