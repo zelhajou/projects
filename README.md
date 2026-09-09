@@ -22,7 +22,7 @@
 
 ## Public Repositories (Newest First)
 
-Last updated: September 08, 2026
+Last updated: September 09, 2026
 
 | Repository | Description | Created | Last Updated | Stars |
 |------------|-------------|---------|-------------|-------|
@@ -42,7 +42,7 @@ Last updated: September 08, 2026
 | [ft_sys_born2beroot](https://github.com/zelhajou/ft_sys_born2beroot) | A project on Virtualization basics ![](https://img.shields.io/badge/-Shell-gray) | 2023-04-18 | 2025-01-31 | 0 |
 | [ft_core_printf](https://github.com/zelhajou/ft_core_printf) | A function that mimics the behavior of the C library printf function ![](https://img.shields.io/badge/-C-gray) | 2022-12-01 | 2025-10-03 | 1 |
 | [ft_piscine_c](https://github.com/zelhajou/ft_piscine_c) | Code developed at 42's Piscine, a 26-day (straight) C bootcamp  ![](https://img.shields.io/badge/-C-gray) | 2022-10-18 | 2025-10-03 | 4 |
-| [ft_core_libft](https://github.com/zelhajou/ft_core_libft) | A library of useful C functions ![](https://img.shields.io/badge/-C-gray) | 2022-10-17 | 2026-01-27 | 18 |
+| [ft_core_libft](https://github.com/zelhajou/ft_core_libft) | A library of useful C functions ![](https://img.shields.io/badge/-C-gray) | 2022-10-17 | 2026-09-08 | 17 |
 
 ## Repository Statistics
 
@@ -74,9 +74,9 @@ Last updated: September 08, 2026
     <tr>
       <td align="center" colspan="3">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Total%20Stars-129-yellow?style=for-the-badge&color=f1c40f">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Total%20Stars-129-yellow?style=for-the-badge&color=f1c40f">
-          <img alt="Total Stars" src="https://img.shields.io/badge/Total%20Stars-129-yellow?style=for-the-badge&color=f1c40f">
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Total%20Stars-128-yellow?style=for-the-badge&color=f1c40f">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Total%20Stars-128-yellow?style=for-the-badge&color=f1c40f">
+          <img alt="Total Stars" src="https://img.shields.io/badge/Total%20Stars-128-yellow?style=for-the-badge&color=f1c40f">
         </picture>
       </td>
     </tr>
@@ -182,4 +182,4 @@ Language composition across all repositories:
 </div>
 
 
-<div align="center"><small>Last updated: September 08, 2026</small></div>
+<div align="center"><small>Last updated: September 09, 2026</small></div>
