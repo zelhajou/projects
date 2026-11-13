@@ -22,7 +22,7 @@
 
 ## Public Repositories (Newest First)
 
-Last updated: November 12, 2026
+Last updated: November 13, 2026
 
 | Repository | Description | Created | Last Updated | Stars |
 |------------|-------------|---------|-------------|-------|
@@ -58,16 +58,16 @@ Last updated: November 12, 2026
       </td>
       <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
-          <img alt="Public Repositories" src="https://img.shields.io/badge/Public%20Repositories-20-green?style=for-the-badge&color=2ecc71">
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
+          <img alt="Public Repositories" src="https://img.shields.io/badge/Public%20Repositories-19-green?style=for-the-badge&color=2ecc71">
         </picture>
       </td>
       <td align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
-          <img alt="Private Repositories" src="https://img.shields.io/badge/Private%20Repositories-24-red?style=for-the-badge&color=e74c3c">
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
+          <img alt="Private Repositories" src="https://img.shields.io/badge/Private%20Repositories-25-red?style=for-the-badge&color=e74c3c">
         </picture>
       </td>
     </tr>
@@ -90,7 +90,7 @@ Last updated: November 12, 2026
 - 📅 **First repository:** [ft_core_libft](https://github.com/zelhajou/ft_core_libft) created on 2022-10-17
 - 🆕 **Most recent repository:** [ext_domain-tab-grouper](https://github.com/zelhajou/ext_domain-tab-grouper) created on 2026-05-15
 - 🎂 **GitHub account age:** Approximately 8 years (created on 2018-06-05)
-- 📊 **Average creation rate:** 2.5
+- 📊 **Average creation rate:** 2.3
 
 ### Contribution Activity
 
@@ -182,4 +182,4 @@ Language composition across all repositories:
 </div>
 
 
-<div align="center"><small>Last updated: November 12, 2026</small></div>
+<div align="center"><small>Last updated: November 13, 2026</small></div>
